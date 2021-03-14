@@ -3,14 +3,14 @@ var jobdata = [
         title: "NASA Internship + Fellowship Program",
         subject: "",
         location: "MD, DC, VA", 
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut viverra elementum nisi at convallis. Nam ac est quis justo vulputate ultricies. Vivamus tristique malesuada elit nec consectetur. ",
+        description: "NASA internships and fellowships leverage NASA’s unique missions and programs to enhance and increase the capability, diversity and size of the nation’s future science, technology, engineering and mathematics (STEM) workforce. Internships are available from high school to graduate level. Internships provide students with the opportunity to participate in either research or other experiential learning, under the guidance of a mentor at NASA. ",
         link: "https://intern.nasa.gov/"
     },
     {
         title: "Google: Computer Science Summer Institute",
         subject: "",
         location: "Online", 
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut viverra elementum nisi at convallis. Nam ac est quis justo vulputate ultricies. Vivamus tristique malesuada elit nec consectetur. ",
+        description: "Google’s Computer Science Summer Institute: Online is a 4-week introduction to computer science for rising college freshmen with a passion for technology - especially students who’ve been historically marginalized from the field. ",
         link: "https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute/"
     },
 ];
