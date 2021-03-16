@@ -1,5 +1,5 @@
 # InternSearch
-InternSearch is a free to use website created to help students find jobs and internships that was made for MenloHacks 5.1 and **won Best All-Girls Project**
+InternSearch is a free to use website created to help students find jobs and internships that was made for MenloHacks 5.1 and **won Best All-Girls Team Project**
 
 ## Inspiration
 My friends and I have been looking for internships that have to do with our combined interest in STEM. However, we found this process to be extremely tedious as there was no one consolidated place we could go to look for updated listings and opportunities. InternSearch is my attempt at changing that.
